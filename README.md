@@ -1,3 +1,3 @@
-# CRUD App with AngularJS 2
+# CRUD App with Angular
 
 Todo App
